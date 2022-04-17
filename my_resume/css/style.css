@@ -1,0 +1,266 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #f5f7fa;
+}
+
+.main-container {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    height: min-height;
+    background-color: #fff;
+    margin: 40px auto;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+
+/* центральная секция - main content section */
+
+
+/* about-me-section */
+
+.about-me-name {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 45px;
+    line-height: 55px;
+    color: #000;
+    margin: 0 0 25px 0;
+}
+
+.about-me-description {
+    font-style: normal;
+    width: 400px;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+
+.main-content-section {
+    padding: 100px 90px;
+}
+
+.about-me-profession {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000;
+    margin-bottom: 20px;
+}
+
+.about-me-section {
+    background: rgb(255, 255, 255);
+    margin-bottom: 40px;
+}
+
+
+/* project-section */
+
+.my-project-bracket {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000;
+}
+
+.my-project-link {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+
+.project-item {
+    color: #000;
+    font-weight: bold;
+}
+
+.my-project-text {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    margin-left: 5px;
+}
+
+.my-project-section {
+    background: rgb(255, 255, 255);
+    margin-bottom: 50px;
+}
+
+.my-project-list {
+    padding: 0 0 0 18px;
+}
+
+.main-content-title {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000;
+    margin-bottom: 10px;
+}
+
+
+/* work-section */
+
+.my-work-experience-duties {
+    padding: 0 0 0 18px;
+}
+
+.my-work-experience-duty {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    font-weight: 24px;
+    color: #595959;
+}
+
+.work-time {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    color: #a8a8a8;
+    margin: 0 0 10px 0;
+}
+
+.my-company3 {
+    margin: 0 15px 0 0;
+}
+
+.line-bold {
+    color: #000;
+}
+
+.work-orange {
+    color: #fb6d3a;
+    margin: 0 0 10px 0;
+}
+
+.my-work-experience-section {
+    background: rgb(255, 255, 255);
+}
+
+.my-education-section {
+    background: rgb(255, 255, 255);
+}
+
+
+/*sidebar section*/
+
+.sidebar-section {
+    background-color: #1e2939;
+    width: 370 px;
+    padding: 40px 0;
+}
+
+.tech-skill-section {
+    margin: 50px 0 0 40px;
+}
+
+.tech-skills-head {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    color: #fff;
+    margin-bottom: 10px;
+}
+
+
+/* contact-section */
+
+.contact-section {
+    color: #fff;
+    margin-left: 40px;
+}
+
+.contact-section-link {
+    color: #565e6a;
+    font-style: normal;
+    font-weight: normal;
+    font-size: normal;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.contact-section-type {
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    color: #fff;
+    margin-right: 10px;
+}
+
+
+/* tech-section */
+
+.tech-skill-list {
+    padding-left: 17px;
+}
+
+.tech-skill-item {
+    color: #fb6d3a;
+}
+
+.tech-skill-item-text {
+    color: #fff;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+
+/* soft-section */
+
+.soft-skill-head {
+    padding-left: 40px;
+    color: #fff;
+}
+
+.soft-skill-list {
+    padding-left: 55px;
+}
+
+.soft-skill-item {
+    color: #fb6d3a;
+}
+
+.soft-skill-list-text {
+    color: #fff;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+
+/* education-section */
+
+.education-univers {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FB6D3A;
+    padding-top: 1px;
+}
+
+
+/* education-work */
+
+.education-work {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+    padding-top: 1px;
+}
